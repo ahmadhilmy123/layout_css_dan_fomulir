@@ -1,0 +1,53 @@
+.header{
+    background-color: aqua;
+    height: 8rem;
+}
+
+.main-content{
+   margin-bottom: 1rem;
+   height: 120px;
+  
+}
+
+.box1{
+ background-color: blueviolet;
+ height: 120px;
+ width: 10%;
+ margin-bottom: 1rem;
+ float: left;
+ margin-right: 5%;
+}
+
+
+.box2{
+    background-color: blue;
+    height: 120px;
+    width: 80%;
+    margin-left: 20%;
+}
+
+
+.maincontent{
+   margin-bottom: 10rem;
+   height: 120px;
+   
+}
+
+.box3{
+ background-color: blueviolet;
+ height: 120px;
+ width: 10%;
+ margin-bottom: 1rem;
+ float: left;
+ margin-right: 5%;
+}
+
+.box4{
+    background-color: blue;
+    height: 120px;
+    width: 80%;
+    margin-left: 20%;
+}
+
+
+
